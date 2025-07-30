@@ -8,6 +8,6 @@ How it works:
 
 Note:
 -Erros handling is not catered 
--Divition by zero will give and error
+-Division by zero will give an error
 -Use symbols instead of words for operator question
 -Expect float answers for division and multiplication operators
